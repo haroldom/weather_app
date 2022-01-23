@@ -1,6 +1,7 @@
 #  Weather App with Python ☀️☔️
 This is a weather application made with Python using Pygame.
-![](https://img.shields.io/github/repo-size/haroldom/weather_app?style=for-the-badge) ㅤ[![Made with python](http://ForTheBadge.com/images/badges/made-with-python.svg)](https://github.com/itsvinayak/weather-app)
+![](https://img.shields.io/github/repo-size/haroldom/weather_app?style=for-the-badge) ㅤ
+[![Made with python](http://ForTheBadge.com/images/badges/made-with-python.svg)](https://github.com/itsvinayak/weather-app)
 
 ------------
 
