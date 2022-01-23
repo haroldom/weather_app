@@ -9,8 +9,7 @@ This is a weather application made with Python using Pygame.
 
 ![Alt Text](https://s10.gifyu.com/images/weather_app.gif)
 
-*An example of how to use the weather application.
-*
+*An example of how to use the weather application.*
 
 ------------
 
@@ -19,7 +18,7 @@ This is a weather application made with Python using Pygame.
 
 Pygame is a set of Python modules designed for writing video games. Pygame adds functionality on top of the excellent SDL library. This allows you to create fully featured games and multimedia programs in the python language.
 
-You can read more about Pygame, <a href="https://github.com/itsvinayak/weather-app/tree/master/weather-django" >here</a>.
+You can read more about Pygame, <a href="https://www.pygame.org/wiki/about" >here</a>.
 
 
 ####  What is virtual environment?
