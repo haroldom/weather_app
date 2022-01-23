@@ -1,5 +1,6 @@
 #  Weather App with Python ☀️☔️
 This is a weather application made with Python using Pygame.
+
 ![](https://img.shields.io/github/repo-size/haroldom/weather_app?style=for-the-badge) ㅤ
 [![Made with python](http://ForTheBadge.com/images/badges/made-with-python.svg)](https://github.com/itsvinayak/weather-app)
 
@@ -7,6 +8,7 @@ This is a weather application made with Python using Pygame.
 
 
 ![Alt Text](https://s10.gifyu.com/images/weather_app.gif)
+
 *An example of how to use the weather application.
 *
 
@@ -28,13 +30,14 @@ You can read more about virtual environments, <a href="https://docs.python.org/3
 ## Setup
 
 - Install dependencies
-- `pip install -r requirements.txt`
+   
+  - `pip install -r requirements.txt`
 - Add environment variables
- - Create a file with the name **.env**.
-  `touch .env`
+  - Create a file with the name **.env**.
+   `touch .env`
   
   - Write in the **.env** file the **API_KEY**
-   `API_KEY="################################";`. The API_KEY is the    ㅤAPI key received from registering at [openweathermap.org](https://openweathermap.org/current "openweathermap.org")
+   `API_KEY="################################";`. The API_KEY is the API key received from registering at [openweathermap.org](https://openweathermap.org/current "openweathermap.org")
 
 - Run
   - If you are on Mac or linux
